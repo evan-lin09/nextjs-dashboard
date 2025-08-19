@@ -1,1 +1,0 @@
-# Test PAT configuration
